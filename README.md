@@ -1,4 +1,4 @@
-# app
+# first-fullstack-app
 
 ## Project setup
 ```
